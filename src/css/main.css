@@ -1,0 +1,61 @@
+h4, h5, h6 {
+  display: inline;
+}
+
+nav .login_panel_text {
+  color: #fff;
+}
+
+nav .input-group {
+  margin-right: 5px;
+}
+
+.login_panel_text {
+  margin: 0 10px;
+}
+
+.sign_btn {
+  margin-left: 5px;
+  color: #fff;
+  text-decoration: underline;
+}
+
+.app-body {
+  margin-top: 10px;
+}
+
+.app-body .card {
+  margin-bottom: 15px;
+}
+
+.btn-manage {
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  padding: 0;
+  float: right;
+  margin-left: 5px;
+}
+
+.task-panel .task-control {
+  padding: 10px;
+  font-size: 1.3rem;
+}
+
+.comment {
+  margin-top: 15px;
+}
+
+.comment p:last-child {
+  margin-bottom: 0;
+}
+
+.comment-controls {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+}
+
+.comment-controls a {
+  margin-right: 10px;
+}
